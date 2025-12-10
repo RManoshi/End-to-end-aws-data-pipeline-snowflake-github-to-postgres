@@ -3,7 +3,7 @@ End-to-end AWS data pipeline ingesting Snowflake and GitHub data into S3, transf
 
 This repository demonstrates an end-to-end AWS data engineering pipeline that ingests data from multiple sources, processes it using AWS services, and loads it into PostgreSQL for analytics and visualization.
 
-The primary focus of this project is **data engineering** — ingestion, storage, transformation, security, and orchestration.
+The primary focus of this project is **data engineering**  ingestion, storage, transformation, security, and orchestration.
 
 ---
 
